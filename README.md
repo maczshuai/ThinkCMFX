@@ -1,3 +1,3 @@
 # ThinkCMFX
 the first test
-hello word
+hello word1
